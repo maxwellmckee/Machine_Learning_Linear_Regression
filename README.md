@@ -1,2 +1,2 @@
 # Machine_Learning_Linear_Regression
-Project that uses machine learning to run linear regressions on datasets
+This code uses machine learning to run linear regressions on datasets. The code is mostly optimized to work with any inputed "training" and "testing" datasets. Right now, the code is set up for training and testing datasets pertaining to a bunch of independent variables that are likely to influence housing prices in Boston. The goal is to be able to predict housing prices given a set of inputs (independent variables). 
